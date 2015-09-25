@@ -52,4 +52,31 @@ table {
 
 /* -----------------END RESET---------------- */
 
+article {
+	width: 500px;
+	float:left;
+	padding:50px;
+	font-family: Sans-Serif;
+}
 
+h1 {
+	font-size: 20pt;
+	font-weight: bold;
+	padding:15px 0px 10px 0px;
+}
+
+h2 {
+	padding:0px 0px 20px 0px;
+	color:#9c9c9c;
+	font-size:10pt;
+}
+
+img.llamaOne {
+	float: left;
+	margin:15px;
+}
+
+img.llamaTwo {
+	float: left;
+	margin:15px;
+}
