@@ -76,9 +76,13 @@ h3 {
 #portions{
 	padding: 0px 0px 0px 150px;
 	display: inline-block;
-	width: 190px;
-	
+	width: 200px;
 	 
+}
+
+#portions li{
+	padding-left:25px; 
+	text-indent:-25px; 
 }
 
 .amount{
