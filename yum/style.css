@@ -53,11 +53,11 @@ body{
 	margin: 40px 0px 0px 40px;
 }
 
-#containerOne{
+#container{
 	height: 400px;
 }
 
-#containerTwo{
+#footer{
 	position: absolute;
 }
 
@@ -120,12 +120,12 @@ h3 {
 	font-weight: bold;
 }
 
-footer a{
+#footer a{
 	text-decoration: none;
 	color: #d34628;
 }
 
-footer a:visited{
+#footer a:visited{
 	text-decoration: none;
 	color: #d34628;
 }
