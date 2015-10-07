@@ -55,7 +55,59 @@ body{
 
 #container{
 	height: 400px;
+<<<<<<< Local Changes
+<<<<<<< Local Changes
+<<<<<<< Local Changes
+<<<<<<< Local Changes
+<<<<<<< Local Changes
+<<<<<<< Local Changes
+<<<<<<< Local Changes
+<<<<<<< Local Changes
+<<<<<<< Local Changes
+<<<<<<< Local Changes
+<<<<<<< Local Changes
+<<<<<<< Local Changes
+<<<<<<< Local Changes
+	position:relative;
+=======
 	
+>>>>>>> External Changes
+=======
+	
+>>>>>>> External Changes
+=======
+	
+>>>>>>> External Changes
+=======
+	
+>>>>>>> External Changes
+=======
+	
+>>>>>>> External Changes
+=======
+	
+>>>>>>> External Changes
+=======
+	
+>>>>>>> External Changes
+=======
+	
+>>>>>>> External Changes
+=======
+	
+>>>>>>> External Changes
+=======
+	
+>>>>>>> External Changes
+=======
+	
+>>>>>>> External Changes
+=======
+	
+>>>>>>> External Changes
+=======
+	
+>>>>>>> External Changes
 }
 
 #footer{
@@ -74,14 +126,52 @@ h2 {
 	color: #d34628;
 	font-family: 'Roboto', sans-serif;
 	font-weight: 500;
+<<<<<<< Local Changes
+	padding-bottom:30px;
+=======
 	padding-bottom:20px;
+>>>>>>> External Changes
 }
 
 h3 {
 	font-family: 'Roboto', sans-serif;
 	font-weight: 400;
+<<<<<<< Local Changes
+<<<<<<< Local Changes
+<<<<<<< Local Changes
+<<<<<<< Local Changes
+<<<<<<< Local Changes
+<<<<<<< Local Changes
+<<<<<<< Local Changes
+	font-size: 15pt
+=======
+	font-size: 15pt
+	margin-bottom:20px
+>>>>>>> External Changes
+=======
+	font-size: 18pt
+	
+>>>>>>> External Changes
+=======
+	font-size: 17pt
+	
+>>>>>>> External Changes
+=======
+	font-size: 16pt
+	
+>>>>>>> External Changes
+=======
 	font-size: 15pt
 	
+>>>>>>> External Changes
+=======
+	font-size: 15pt
+	
+>>>>>>> External Changes
+=======
+	font-size: 15pt
+	
+>>>>>>> External Changes
 }
 
 #portions{
@@ -132,6 +222,244 @@ h3 {
 	text-decoration: none;
 	color: #d34628;
 }
+<<<<<<< Local Changes
+<<<<<<< Local Changes
+<<<<<<< Local Changes
+<<<<<<< Local Changes
+<<<<<<< Local Changes
+<<<<<<< Local Changes
+<<<<<<< Local Changes
+<<<<<<< Local Changes
+<<<<<<< Local Changes
+<<<<<<< Local Changes
+<<<<<<< Local Changes
+<<<<<<< Local Changes
+<<<<<<< Local Changes
+<<<<<<< Local Changes
+<<<<<<< Local Changes
+<<<<<<< Local Changes
+<<<<<<< Local Changes
+<<<<<<< Local Changes
+<<<<<<< Local Changes
+<<<<<<< Local Changes
+<<<<<<< Local Changes
+<<<<<<< Local Changes
+<<<<<<< Local Changes
+<<<<<<< Local Changes
+<<<<<<< Local Changes
+
+h3 {
+	-webkit-transform:rotate(90deg);
+}
+=======
+
+h3 {
+	-webkit-transform:rotate(90deg);
+	background-color:red;
+}
+>>>>>>> External Changes
+=======
+
+h3 {
+	-webkit-transform:rotate(90deg);
+	background-color:red;
+	width:200px;
+}
+>>>>>>> External Changes
+=======
+
+h3 {
+	-webkit-transform:rotate(-90deg);
+	background-color:red;
+	width:200px;
+}
+>>>>>>> External Changes
+=======
+
+h3 {
+	-webkit-transform:rotate(-90deg);
+	background-color:red;
+	width:200px;
+	height:300px;
+}
+>>>>>>> External Changes
+=======
+
+h3 {
+	-webkit-transform:rotate(-90deg);
+	background-color:red;
+	width:200px;
+	height:100px;
+}
+>>>>>>> External Changes
+=======
+
+h3 {
+	-webkit-transform:rotate(-90deg);
+	background-color:red;
+	width:200px;
+	
+}
+>>>>>>> External Changes
+=======
+
+h3 {
+	-webkit-transform:rotate(-90deg);
+	background-color:red;
+	width:100px;
+	
+}
+>>>>>>> External Changes
+=======
+
+h3 {
+	-webkit-transform:rotate(-90deg);
+	background-color:red;
+	width:100px;
+	
+}
+>>>>>>> External Changes
+=======
+
+h3 {
+	-webkit-transform:rotate(-90deg);
+	background-color:red;
+	width:100px;
+	position:absolute;
+	
+}
+>>>>>>> External Changes
+=======
+
+h3 {
+	-webkit-transform:rotate(-90deg);
+	background-color:red;
+	width:100px;
+	
+	
+}
+>>>>>>> External Changes
+=======
+
+h3 {
+	-webkit-transform:rotate(-90deg);
+	background-color:red;
+	width:100px;
+	poistion:absolute;
+	top:0px;
+	right:200px;
+	
+}
+>>>>>>> External Changes
+=======
+
+h3 {
+	-webkit-transform:rotate(-90deg);
+	background-color:red;
+	width:100px;
+	position:absolute;
+	top:0px;
+	right:200px;
+	
+}
+>>>>>>> External Changes
+=======
+
+h3 {
+	-webkit-transform:rotate(-90deg);
+	background-color:red;
+	width:100px;
+	position:absolute;
+	top:0px;
+	right:200px;
+	
+}
+
+header {
+	position:relative;
+}
+>>>>>>> External Changes
+=======
+
+h3 {
+	-webkit-transform:rotate(-90deg);
+	background-color:red;
+	width:100px;
+	position:absolute;
+	top:0px;
+	left:200px;
+	
+}
+
+header {
+	position:relative;
+}
+>>>>>>> External Changes
+=======
+
+h3 {
+	-webkit-transform:rotate(-90deg);
+	background-color:red;
+	width:100px;
+	position:absolute;
+	top:5px;
+	left:300px;
+	
+}
+
+header {
+	position:relative;
+}
+>>>>>>> External Changes
+=======
+
+h3 {
+	-webkit-transform:rotate(-90deg);
+	background-color:red;
+	width:100px;
+	position:absolute;
+	top:10px;
+	left:400px;
+	
+}
+
+header {
+	position:relative;
+}
+>>>>>>> External Changes
+=======
+
+h3 {
+	-webkit-transform:rotate(-90deg);
+	background-color:red;
+	width:100px;
+	position:absolute;
+	top:15px;
+	left:450px;
+	
+}
+
+header {
+	position:relative;
+}
+>>>>>>> External Changes
+=======
+
+h3 {
+	-webkit-transform:rotate(-90deg);
+	background-color:red;
+	width:100px;
+	position:absolute;
+	top:15px;
+	left:450px;
+	
+}
+
+header {
+	position:relative;
+}
+>>>>>>> External Changes
+=======
 
 h3 {
 	-webkit-transform:rotate(-90deg);
@@ -145,5 +473,96 @@ h3 {
 header {
 	position:relative;
 }
+>>>>>>> External Changes
+=======
+
+h3 {
+	-webkit-transform:rotate(-90deg);
+	width:100px;
+	position:absolute;
+	top:15px;
+	left:450px;
+	
+}
+
+header {
+	position:relative;
+}
+>>>>>>> External Changes
+=======
+
+h3 {
+	-webkit-transform:rotate(-90deg);
+	width:100px;
+	position:absolute;
+	top:15px;
+	left:450px;
+	
+}
+
+header {
+	position:relative;
+}
+>>>>>>> External Changes
+=======
+
+h3 {
+	-webkit-transform:rotate(-90deg);
+	width:100px;
+	position:absolute;
+	top:15px;
+	left:450px;
+	
+}
+
+header {
+	position:relative;
+}
+>>>>>>> External Changes
+=======
+
+h3 {
+	-webkit-transform:rotate(-90deg);
+	width:100px;
+	position:absolute;
+	top:15px;
+	left:450px;
+	
+}
+
+header {
+	position:relative;
+}
+>>>>>>> External Changes
+=======
+
+h3 {
+	-webkit-transform:rotate(-90deg);
+	width:100px;
+	position:absolute;
+	top:15px;
+	left:450px;
+	
+}
+
+header {
+	position:relative;
+}
+>>>>>>> External Changes
+=======
+
+h3 {
+	-webkit-transform:rotate(-90deg);
+	width:100px;
+	position:absolute;
+	top:15px;
+	left:450px;
+	
+}
+
+header {
+	position:relative;
+}
+>>>>>>> External Changes
 	
 

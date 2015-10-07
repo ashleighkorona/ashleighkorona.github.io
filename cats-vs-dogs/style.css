@@ -89,7 +89,31 @@ p {
 }
 
 article {
-	width:450px;
+	width:400px;
 	float:left;
 	padding:20px 100px 50px 100px;
 }
+
+
+
+footer {
+	clear:both;
+	float:right;
+	padding-top:100px;
+	padding-right:300px;
+	
+}
+
+.container {
+	height:500px;
+	width:70%;
+	margin: auto;
+	position:relative;
+	
+	
+}
+
+
+
+
+
