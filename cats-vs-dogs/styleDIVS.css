@@ -59,6 +59,10 @@ header {
 	
 }
 
+.fullPage {
+    width:90%;
+}
+
 .nav{
     border:1px solid #000;
     border-width:3px 0;
@@ -110,21 +114,24 @@ footer {
 	
 }
 
-.container {
-	height:500px;
-	width:70%;
-	margin:0 auto;
-	margin: auto;
-	position:relative;
-
-	
-	
-}
-
-
-.imgPets {
+.stuff {
+    clear:both;
     width: 100%;
-    height: auto;
+
 }
+
+.container {
+ width: 70%;
+  margin: auto;
+  position: absolute;
+
+}
+
+img {
+	max-width:100%;
+}
+
+
+
 
 

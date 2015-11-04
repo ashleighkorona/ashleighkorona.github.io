@@ -1,0 +1,11 @@
+@media only screen and (max-width:1730px) {
+
+	.imgPets {
+		width: 85%;
+	}
+
+	article {
+		width: 200px;
+	}
+
+}
