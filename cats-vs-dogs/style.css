@@ -59,12 +59,24 @@ header {
 	
 }
 
+.logo {
+	font-family:'league gothic';
+	font-size:4em;
+	
+}
+
+.vs{
+	font-family:'georgia', italic;
+	font-size:1em;
+	color:gray; 
+}
+
 .nav{
     border:1px solid #000;
     border-width:3px 0;
-    list-style:none;
-    margin-top:50px;
-    padding:15px;
+    list-style:none
+    margin-top:4%;
+    padding:1%;
     text-align:center;
 	font-family: 'Bitter', serif;
 	font-size: 18pt;
@@ -73,12 +85,12 @@ header {
 }
 .nav li{
     display:inline;
-	padding:30px;
+	padding:3%;
 	
 }
 .nav a{
     display:inline-block;
-    padding:10px;
+    padding:1%;
 	text-decoration: none;
 	color: #000;
 }
@@ -95,9 +107,9 @@ p {
 }
 
 article {
-	width:400px;
+	width:40%;
 	float:left;
-	padding:20px 100px 50px 100px;
+	padding:5%;
 }
 
 
@@ -125,6 +137,24 @@ footer {
 .imgPets {
     width: 100%;
     height: auto;
+}
+
+.hamburger {
+	display:none;
+}
+
+
+
+@media screen and (max-width:600px) {
+	
+	.nav {display:none;
+	}
+	.hamburger {
+		display:block; 
+		font:size 40px;
+				
+	}
+	
 }
 
 
