@@ -58,12 +58,10 @@
 		}
 		p{
 			font-size: 2em;
-			color: #333;
+			color: #999;
 		}
 		
-		#content.p{
-			color: #fff;
-		}
+		
 		.content{
 			position: relative;
 			top: 50%;
