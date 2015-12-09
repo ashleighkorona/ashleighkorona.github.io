@@ -58,6 +58,11 @@
 		}
 		p{
 			font-size: 2em;
+			color: #333;
+		}
+		
+		#content.p{
+			color: #fff;
 		}
 		.content{
 			position: relative;

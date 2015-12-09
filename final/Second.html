@@ -5,11 +5,9 @@
 	<title>Ashleigh Korona</title>
 	 <link rel="stylesheet" href="style1.css" type="text/css" media="screen" />
 	 <link rel="stylesheet" type="text/css" href="javascript.fullPage.css" />
-	 <link rel="stylesheet" href="/fancybox/source/jquery.fancybox.css?v=2.1.5" type="text/css" media="screen" />
-	 <link rel="stylesheet" href="/fancybox/source/helpers/jquery.fancybox-buttons.css?v=1.0.5" type="text/css" media="screen" />
-	 <link rel="stylesheet" href="/fancybox/source/helpers/jquery.fancybox-thumbs.css?v=1.0.7" type="text/css" media="screen" />
-	
+	  <link rel="stylesheet" href="lightbox.css">
 </head>
+
 <body>
 <div id="fullpage">
 	<div class="section " id="section0">
@@ -23,11 +21,24 @@
 			<div class="content">
 				<div class="links">
 	<ul>
-    	<li><a class="fancybox" rel="group" href="Images/book1.jpg"><img src="Images/small/b1.jpg" alt="b1" /></a></li><!-- change projectname to each project, and change urls in css -->
-        <li><a class="fancybox" rel="group" href="Images/book2.jpg"><img src="Images/small/b2.jpg" alt="b2" /></a></li>
-       	<li><a class="fancybox" rel="group" href="Images/book3.jpg"><img src="Images/small/b3.jpg" alt="b3" /></a></li>
-       	<li><a class="fancybox" rel="group" href="Images/book4.jpg"><img src="Images/small/b4.jpg" alt="b4" /></a></li>
-       	<li><a class="fancybox" rel="group" href="Images/book5.jpg"><img src="Images/small/b5.jpg" alt="b5" /></a></li>
+    	<li><a class="example-image-link" href="images/book1.jpg" data-lightbox="example-1"><img class="example-image" src="images/small/b1.jpg" alt="b1" alt="image-1" /></a></li>
+        <li><a class="example-image-link" href="images/book2.jpg" data-lightbox="example-1"><img src="images/small/b2.jpg" alt="b2" /></a></li>
+       	<li><a class="example-image-link" href="images/book3.jpg" data-lightbox="example-1"><img src="images/small/b3.jpg" alt="b3" /></a></li>
+       	<li><a class="example-image-link" rel="group" href="images/book4.jpg" data-lightbox="example-1"><img src="images/small/b4.jpg" alt="b4" /></a></li>
+       	<li><a class="example-image-link" rel="group" href="images/book5.jpg" data-lightbox="example-1"><img src="images/small/b5.jpg" alt="b5" /></a></li>
+	</ul>
+	<p>suppppp</p>
+</div>
+			</div>
+		</div>
+		<div class="slide" id="slide2">
+			<div class="content">
+				<div class="links">
+	<ul>
+    	<li><a class="example-image-link" href="images/stamp1.jpg" data-lightbox="example-1"><img src="images/small/s1.jpg" alt="s1" /></a></li><!-- change projectname to each project, and change urls in css -->
+        <li><a class="example-image-link" href="images/stamp2.jpg" data-lightbox="example-1"><img src="images/small/s4.jpg" alt="s2" /></a></li>
+       	<li><a class="example-image-link" href="images/stamp3.jpg" data-lightbox="example-1"><img src="images/small/s3.jpg" alt="s3" /></a></li>
+       	<li><a class="example-image-link" href="images/stamp4.jpg" data-lightbox="example-1"><img src="images/small/s2.jpg" alt="s4" /></a></li>
 	</ul>
 </div>
 			</div>
@@ -36,22 +47,10 @@
 			<div class="content">
 				<div class="links">
 	<ul>
-    	<li><a class="fancybox" rel="group" href="Images/stamp1.jpg"><img src="Images/small/s1.jpg" alt="s1" /></a></li><!-- change projectname to each project, and change urls in css -->
-        <li><a class="fancybox" rel="group" href="Images/stamp2.jpg"><img src="Images/small/s2.jpg" alt="s2" /></a></li>
-       	<li><a class="fancybox" rel="group" href="Images/stamp3.jpg"><img src="Images/small/s3.jpg" alt="s3" /></a></li>
-       	<li><a class="fancybox" rel="group" href="Images/stamp4.jpg"><img src="Images/small/s4.jpg" alt="s4" /></a></li>
-	</ul>
-</div>
-			</div>
-		</div>
-		<div class="slide" id="slide2">
-			<div class="content">
-				<div class="links">
-	<ul>
-    	<li><a class="fancybox" rel="group" href="Images/red1.png"><img src="Images/small/r1.jpg" alt="r1" /></a></li><!-- change projectname to each project, and change urls in css -->
-        <li><a class="fancybox" rel="group" href="Images/red2.png"><img src="Images/small/r2.jpg" alt="r2" /></a></li>
-       	<li><a class="fancybox" rel="group" href="Images/red3.png"><img src="Images/small/r3.jpg" alt="r3" /></a></li>
-       	<li><a class="fancybox" rel="group" href="Images/red4.jpg"><img src="Images/small/r4.jpg" alt="r4" /></a></li>
+    	<li><a class="example-image-link" href="images/red1.png" data-lightbox="example-1"><img src="images/small/r1.jpg" alt="r1" /></a></li><!-- change projectname to each project, and change urls in css -->
+        <li><a class="example-image-link" href="images/red2.png" data-lightbox="example-1"><img src="images/small/r2.jpg" alt="r2" /></a></li>
+       	<li><a class="example-image-link" href="images/red3.png" data-lightbox="example-1"><img src="images/small/r3.jpg" alt="r3" /></a></li>
+       	<li><a class="example-image-link" href="images/red4.jpg" data-lightbox="example-1"><img src="images/small/r4.jpg" alt="r4" /></a></li>
 	</ul>
 </div>
 			</div>
@@ -60,15 +59,15 @@
 	<div class="section" id="section2">
 		<div class="content">
 			<h1>About Me</h1>
-			<p>Currently working on Bachelor's of Fine Arts degree in Graphic Design at MassArt</p>
-			<p>I have five years of experience working at Converse retail locations, where I am currently employed</p>
-			<p>Living in the heart of Boston, Ma</p>	
-			<p>Contact me: ashleighkorona@gmail.com</p>	
-			
+			<p>Graduating from Massachusetts College of Art and Design with my Bachelor's of Fine Arts degree 2017</p>
+			<p>I have five years of retail experience working at Converse retail stores</p>
+			<p>Living in the heart of Boston</p>
+			<p>Contact me: ashleighkorona@gmail.com</p>
 		</div>
 	</div>
 </div>
-	
+
+<script src="lightbox-plus-jquery.min.js"></script>	
 <script type="text/javascript" src="javascript.fullPage.js"></script>
 <script type="text/javascript"
 >	fullpage.initialize('#fullpage', {
@@ -78,19 +77,6 @@
 	});
 
 </script>
-
-<script type="text/javascript">
-	$(document).ready(function() {
-		$(".fancybox").fancybox();
-	});
-</script>
-
-<script type="text/javascript" src="http://code.jquery.com/jquery-latest.min.js"></script>
-<script type="text/javascript" src="/fancybox/source/jquery.fancybox.pack.js?v=2.1.5"></script>
-<script type="text/javascript" src="/fancybox/source/helpers/jquery.fancybox-buttons.js?v=1.0.5"></script>
-<script type="text/javascript" src="/fancybox/source/helpers/jquery.fancybox-media.js?v=1.0.6"></script>
-<script type="text/javascript" src="/fancybox/lib/jquery.mousewheel-3.0.6.pack.js"></script>
-<script type="text/javascript" src="/fancybox/source/helpers/jquery.fancybox-thumbs.js?v=1.0.7"></script>
 
 </body>
 </html>
